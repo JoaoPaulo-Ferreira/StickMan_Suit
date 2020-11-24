@@ -1,6 +1,6 @@
 # =============================================================================
 #  |   Assignment:  StickMan_Suit
-#  |       Author:  joaopaulof.soares@gmail.com, davidamurim7@gmail.com
+#  |       Author:  joaopaulof.soares@gmail.com, davidamurim7@gmail.com, nascimentoalankst@gmail.com
 #  |
 #  |       Course:  Image Processing
 #  |       Date:    2019-Nov
